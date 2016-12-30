@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
 title: Sandhaaland
 gems: - jekyll-seo-tag
-source: docs
+source: /docs
+timezone: Europe/Oslo
