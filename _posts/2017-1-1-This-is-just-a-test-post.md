@@ -8,8 +8,5 @@ Cool stuff by using the jekyll engine to create blog
 
 ![_config.yml]({{site.url}}/images/config.png)
 
-' code goes here
-get-session -powershell
 
-'
 
