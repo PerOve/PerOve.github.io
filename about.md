@@ -13,8 +13,8 @@ Automation is my favorite activity. Using PowerShell, SharePoint workflows and A
 
 Nowadays I am learning javascript and TypeScript.
 The goal is to be able to create webparts using SharePoint Framework.
-And to create APIs to be used as Office365 connectors.
-And to leverage PowerApps, Flow and Poer BI to create really fantastic productiviy solutions.
+And to create APIs to be used as Office 365 connectors.
+And to leverage PowerApps, Flow and Power BI to create really fantastic productiviy solutions.
 
 All for the sake of making a difference for businesses and people working there.
 
