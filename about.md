@@ -4,20 +4,18 @@ title: About Per Ove Sandhåland
 permalink: /about/
 ---
 
-Hi there!
+I work with business productivity.
+The last 7 years that means helping businesses with adopting tools in the Microsoft stack.
+SharePoint, Office 365 and Azure are my focus areas.
+Before this I have used tools like Lotus Notes, batchfiles, VBA and others.
 
-So you wonder who I am? Here are some hints.
+Automation is my favorite activity. Using PowerShell, SharePoint workflows and Azure Automation.
 
-I live and have grown up on the west coast of Norway.
-Being outside doing wathever came to mind are fundamentally how my childhood was.
-My only worries were monsters in the dark and not be granted access to heaven.
-(Of course my family needed to scare us kids with something, for us to behave... :))
+Nowadays I am learning javascript and TypeScript.
+The goal is to be able to create webparts using SharePoint Framework.
+And to create APIs to be used as Office365 connectors.
+And to leverage PowerApps, Flow and Poer BI to create really fantastic productiviy solutions.
 
-Since early childhood I have been very interrested in science and technology.
-Luckily for me, our safe and small community has high tech industries like aluminium, ship building and oil and gas companies.
-These are depended on very high tech automation solutions, since manpower is rare and unemployment did not exist.
+All for the sake of making a difference for businesses and people working there.
 
-This and my facination for technology got me into studying electronics and automation.
-And this again led me into professional information technology, a rising and new way of doing effective work.
 
-And here I am. Still loving what I do.
