@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Per Ove Sandhåland
 permalink: /about/
 ---
 
