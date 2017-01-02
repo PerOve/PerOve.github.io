@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there!
 
-### More Information
+So you wonder who I am? Here are some hints.
 
-A place to include any other types of information that you'd like to include about yourself.
+I live and have grown up on the west coast of Norway.
+Being outside doing wathever came to mind are fundamentally how my childhood was.
+My only worries were monsters in the dark and not be granted access to heaven.
+(Of course my family needed to scare us kids with something, for us to behave... :))
 
-### Contact me
+Since early childhood I have been very interrested in science and technology.
+Luckily for me, our safe and small community has high tech industries like aluminium, ship building and oil and gas companies.
+These are depended on very high tech automation solutions, since manpower is rare and unemployment did not exist.
 
-[email@domain.com](mailto:email@domain.com)
+This and my facination for technology got me into studying electronics and automation.
+And this again led me into professional information technology, a rising and new way of doing effective work.
+
+And here I am. Still loving what I do.
