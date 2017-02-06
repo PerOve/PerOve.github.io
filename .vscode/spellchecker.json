@@ -1,13 +1,16 @@
 {
     "language": "en_US",
     "ignoreWordsList": [
+        "Projectweb",
         "aluminium",
         "PowerShell",
         "SharePoint",
         "permalink",
         "workflows",
         "javascript",
-        "Howto"
+        "Howto",
+        "blog",
+        "config"
     ],
     "documentTypes": [
         "markdown",
