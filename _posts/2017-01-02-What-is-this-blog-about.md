@@ -5,9 +5,4 @@ title: What is this blog all about?
 
 
 ![_config.yml]({{site.url}}/images/jekyll-logo.png)
-This blog is all about how you can use technology.
-Technology I am mostly interested in are Office365, Azure and SharePoint.
-But even if I am a Microsoft fan, I have no problem looking elsewhere.
-
-Hope you enjoy my content!
-Have a fantastic day!
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sandhaaland"><a class="LI-simple-link" href='https://no.linkedin.com/in/sandhaaland?trk=profile-badge'>Per Ove Sandhåland</a></div>
